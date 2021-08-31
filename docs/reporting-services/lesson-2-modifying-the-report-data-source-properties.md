@@ -79,7 +79,7 @@ You will also modify the dataset and report to use a parameter to filter the rep
  In the following steps you will add a parameter to the report.  The report parameter feeds the dataset parameter. 
 ## <a name="bkmk_add_reportparameter"></a>To Add a Report Parameter and Republish the Report  
   
-1.  In the **Report Data** pane expand the parameters folder and double-click the **Ordernumber** parameter.  It was created automatically as part of the previous steps when you added the parameter to the dataset. click **New** and then click **Parameter...**  
+1.  In the **Report Data** pane expand the parameters folder and double-click the **Ordernumber** parameter.  It was created automatically as part of the previous steps when you added the parameter to the dataset. click **New** and then click **Parameter...**
  ![ssrs_tutorial_datadriven_parameter](../reporting-services/media/ssrs-tutorial-datadriven-parameter.png) 
 2.  Verify the **Name** is `OrderNumber`.  
   
